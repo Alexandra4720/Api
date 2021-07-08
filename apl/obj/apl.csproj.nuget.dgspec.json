@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tites\\OneDrive\\Desktop\\practica\\firstapi\\firstapi.csproj": {}
+    "C:\\Users\\tites\\OneDrive\\Desktop\\practica\\apl\\apl.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tites\\OneDrive\\Desktop\\practica\\firstapi\\firstapi.csproj": {
+    "C:\\Users\\tites\\OneDrive\\Desktop\\practica\\apl\\apl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tites\\OneDrive\\Desktop\\practica\\firstapi\\firstapi.csproj",
-        "projectName": "firstapi",
-        "projectPath": "C:\\Users\\tites\\OneDrive\\Desktop\\practica\\firstapi\\firstapi.csproj",
+        "projectUniqueName": "C:\\Users\\tites\\OneDrive\\Desktop\\practica\\apl\\apl.csproj",
+        "projectName": "apl",
+        "projectPath": "C:\\Users\\tites\\OneDrive\\Desktop\\practica\\apl\\apl.csproj",
         "packagesPath": "C:\\Users\\tites\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tites\\OneDrive\\Desktop\\practica\\firstapi\\obj\\",
+        "outputPath": "C:\\Users\\tites\\OneDrive\\Desktop\\practica\\apl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tites\\AppData\\Roaming\\NuGet\\NuGet.Config",
